@@ -12,9 +12,13 @@ ML: sklearn, pandas, numpy API: flask
 Используемые признаки:
 
 age (int)
+
 position (category)
+
 citizenship (category)
+
 club (category)
+
 national_team (category)
 
 
