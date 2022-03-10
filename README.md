@@ -4,8 +4,7 @@
 Стек:
 
 ML: sklearn, pandas, numpy API: flask 
-Данные собраны самостоятельный с сайта transfermarkt.com
-
+Данные собраны самостоятельный с сайта transfermarkt.com <hr>
 Задача: предсказать по описанию игрока его стоимость
 
 
