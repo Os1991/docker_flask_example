@@ -24,7 +24,7 @@ national_team (category)
 Клонируем репозиторий и создаем образ
 $ git clone https://github.com/Os1991/docker_flask_example/.git
 $ cd docker_flask_example
-$ docker build -t Os1991/docker_flask_example .
+$ docker build -t Os1991/docker_flask_example
 Запускаем контейнер
 Здесь Вам нужно создать каталог локально и сохранить туда предобученную модель (<your_local_path_to_pretrained_models> нужно заменить на полный путь к этому каталогу)
 
